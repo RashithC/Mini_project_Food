@@ -273,9 +273,9 @@ int Vegetable_Biryani = 900;
 			 quantity=sc.nextInt();
 			 total=quantity*Spaghetti_Carbonara ;
 			 break;
-		}
 		
-		switch(ch) {
+		
+		
 		case 2:
 			 System.out.println("You have selected Napoletana_Pizza:");
 			 System.out.println();
@@ -283,9 +283,9 @@ int Vegetable_Biryani = 900;
 			 quantity=sc.nextInt();
 			 total=quantity*Napoletana_Pizza;
 			 break;
-		}
 		
-		switch(ch) {
+		
+	
 		case 3:
 			 System.out.println("You have selected Risotto:");
 			 System.out.println();
@@ -293,8 +293,7 @@ int Vegetable_Biryani = 900;
 			 quantity=sc.nextInt();
 			 total=quantity*Risotto;
 			 break;
-		}
-		switch(ch) {
+				
 		case 4:
 			 System.out.println("You have selected  Arancini:");
 			 System.out.println();
